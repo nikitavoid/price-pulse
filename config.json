@@ -1,0 +1,11 @@
+{
+  "interval_minutes": 60,
+  "products": [
+    {
+      "name": "Example book",
+      "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+      "selector": "p.price_color",
+      "target": 40
+    }
+  ]
+}
